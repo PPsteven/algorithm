@@ -7,8 +7,8 @@
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      | 完成 |
 | ---- | ---- | ---- | ------------------ | ---------------- | -------- | 
+| 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| py ❌ |
 | 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| cpp ✅ |
-| 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| py ❎ |
 | 22 | 22 | 中等 | [括号生成](https://leetcode.cn/problems/generate-parentheses/description/) | [solve/0022.generate-parentheses](../solve/0022.generate-parentheses)| cpp ✅ |
 | 32 | 32 | 困难 | [最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/description/) | [solve/0032.longest-valid-parentheses](../solve/0032.longest-valid-parentheses)| cpp ✅ |
 | 42 | 42 | 困难 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/) | [solve/0042.trapping-rain-water](../solve/0042.trapping-rain-water)| cpp ✅ |

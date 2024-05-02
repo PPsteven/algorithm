@@ -3,17 +3,18 @@
 <!--- table -->
 
 
-总计: 50
+总计: 51
 
 | 网页序号 | 序号 | 难度 | 题目                    | 解答                      | 完成 |
 | ---- | ---- | ---- | ------------------ | ---------------- | -------- | 
 | 1 | 1 | 简单 | [两数之和](https://leetcode.cn/problems/two-sum/description/) | [solve/0001.two-sum](../solve/0001.two-sum)| cpp ✅ |
+| 1 | 1 | 简单 | [两数之和](https://leetcode.cn/problems/two-sum/description/) | [solve/0001.two-sum](../solve/0001.two-sum)| go ❌ |
 | 2 | 2 | 中等 | [两数相加](https://leetcode.cn/problems/add-two-numbers/description/) | [solve/0002.add-two-numbers](../solve/0002.add-two-numbers)| cpp ✅ |
 | 3 | 3 | 中等 | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/) | [solve/0003.longest-substring-without-repeating-characters](../solve/0003.longest-substring-without-repeating-characters)| cpp ✅ |
-| 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| py ❎ |
 | 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| cpp ✅ |
+| 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| py ❌ |
 | 6 | 6 | 中等 | [Z 字形变换](https://leetcode.cn/problems/zigzag-conversion/description/) | [solve/0006.zigzag-conversion](../solve/0006.zigzag-conversion)| cpp ✅ |
-| 7 | 7 | 中等 | [整数反转](https://leetcode.cn/problems/reverse-integer/description/) | [solve/0007.reverse-integer](../solve/0007.reverse-integer)| cpp ❎ |
+| 7 | 7 | 中等 | [整数反转](https://leetcode.cn/problems/reverse-integer/description/) | [solve/0007.reverse-integer](../solve/0007.reverse-integer)| cpp ❌ |
 | 8 | 8 | 中等 | [字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/description/) | [solve/0008.string-to-integer-atoi](../solve/0008.string-to-integer-atoi)| cpp ✅ |
 | 8 | 8 | 中等 | [字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/description/) | [solve/0008.string-to-integer-atoi](../solve/0008.string-to-integer-atoi)| cpp ✅ |
 | 9 | 9 | 简单 | [回文数](https://leetcode.cn/problems/palindrome-number/description/) | [solve/0009.palindrome-number](../solve/0009.palindrome-number)| cpp ✅ |
@@ -43,7 +44,7 @@
 | 207 | 207 | 中等 | [课程表](https://leetcode.cn/problems/course-schedule/description/) | [solve/0207.course-schedule](../solve/0207.course-schedule)| cpp ✅ |
 | 221 | 221 | 中等 | [最大正方形](https://leetcode.cn/problems/maximal-square/description/) | [solve/0221.maximal-square](../solve/0221.maximal-square)| cpp ✅ |
 | 224 | 224 | 困难 | [基本计算器](https://leetcode.cn/problems/basic-calculator/description/) | [solve/0224.basic-calculator](../solve/0224.basic-calculator)| cpp ✅ |
-| 225 | 225 | 简单 | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/) | [solve/0225.implement-stack-using-queues](../solve/0225.implement-stack-using-queues)| cpp ❎ |
+| 225 | 225 | 简单 | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/) | [solve/0225.implement-stack-using-queues](../solve/0225.implement-stack-using-queues)| cpp ❌ |
 | 232 | 232 | 简单 | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/) | [solve/0232.implement-queue-using-stacks](../solve/0232.implement-queue-using-stacks)| cpp ✅ |
 | 238 | 238 | 中等 | [除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/description/) | [solve/0238.product-of-array-except-self](../solve/0238.product-of-array-except-self)| cpp ✅ |
 | 240 | 240 | 中等 | [搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/) | [solve/0240.search-a-2d-matrix-ii](../solve/0240.search-a-2d-matrix-ii)| cpp ✅ |

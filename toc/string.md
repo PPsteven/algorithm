@@ -9,7 +9,7 @@
 | ---- | ---- | ---- | ------------------ | ---------------- | -------- | 
 | 3 | 3 | 中等 | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/) | [solve/0003.longest-substring-without-repeating-characters](../solve/0003.longest-substring-without-repeating-characters)| cpp ✅ |
 | 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| cpp ✅ |
-| 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| py ❎ |
+| 5 | 5 | 中等 | [最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [solve/0005.longest-palindromic-substring](../solve/0005.longest-palindromic-substring)| py ❌ |
 | 6 | 6 | 中等 | [Z 字形变换](https://leetcode.cn/problems/zigzag-conversion/description/) | [solve/0006.zigzag-conversion](../solve/0006.zigzag-conversion)| cpp ✅ |
 | 8 | 8 | 中等 | [字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/description/) | [solve/0008.string-to-integer-atoi](../solve/0008.string-to-integer-atoi)| cpp ✅ |
 | 8 | 8 | 中等 | [字符串转换整数 (atoi)](https://leetcode.cn/problems/string-to-integer-atoi/description/) | [solve/0008.string-to-integer-atoi](../solve/0008.string-to-integer-atoi)| cpp ✅ |
